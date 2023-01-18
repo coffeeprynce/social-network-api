@@ -3,14 +3,14 @@
 ##Descriptions
 this is an api using mongo db for a social network platform where users can add friends and share thoughts with each other.
 
-##### Table of Contents  
-[Criteria](#criteria)  
+##### Table of Contents
+[User Story](#userstory)
+[Criteria](#criteria)
 [Usage](#usage)
-[Credit](#credit)
-...snip...    
-<a name="headers"/>
-## Headers
+[Credits](#credits)
+[References](#references)
 
+<a name="userstory"/>
 ## User Story
 
 ```md
@@ -32,3 +32,16 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete users and thoughts in my database
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+```
+<a name="usage"/>
+## Usage
+to start off make sure you clone the code then go to your terminal once you have the files open.
+Next you are going to want to run Mongosh on a separate window or secondary terminal to pair it with the mongo database. Once that is up and running go back to your first terminal and enter in npm run start to start your application. 
+
+<a name="credits"/>
+## Credits
+I want to thank my instructors from the university of minnesota bootcamp for helping me with this project as well as stack overflow which has been a great resource for me.
+
+<a name="references"/>
+## References
+I had great help from the module 17 mini project which thoroughly explain the structure and get methods I needed to create the framework for this project.
