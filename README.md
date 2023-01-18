@@ -1,5 +1,7 @@
 # social-network-api
-an api using mongo db for a social network platform
+
+##Descriptions
+this is an api using mongo db for a social network platform where users can add friends and share thoughts with each other.
 
 
 ## User Story
