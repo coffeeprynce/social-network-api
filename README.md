@@ -3,6 +3,13 @@
 ##Descriptions
 this is an api using mongo db for a social network platform where users can add friends and share thoughts with each other.
 
+##### Table of Contents  
+[Criteria](#criteria)  
+[Usage](#usage)
+[Credit](#credit)
+...snip...    
+<a name="headers"/>
+## Headers
 
 ## User Story
 
@@ -12,7 +19,8 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 ```
 
-## Acceptance Criteria
+<a name="criteria"/>
+## Criteria
 
 ```md
 GIVEN a social network API
